@@ -17,3 +17,4 @@ YUhan:20
 Yuhan:70
  Shineed:40
 Yuhan:40
+FAWSZ:20

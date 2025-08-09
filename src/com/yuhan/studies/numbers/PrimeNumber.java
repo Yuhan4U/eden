@@ -13,7 +13,7 @@ public class PrimeNumber {
          int c=1; 
         for(int i=2;i<=number;i++) {
         
-     if(c%i!=0) {
+     if(i%c!=0) {
          System.out.print( " ,"+i);
          c++;
      }  

@@ -44,7 +44,8 @@ public class LCM {
 		for (int i = 1; i < fc.size(); i++) {
 			if (sc.contains(fc.get(i))) {
 				System.out.println(fc.get(i));
-				lc.add(i);
+				lc.add(fc.get(i));
+
 				count++;
 				if (count == 5)
 					break; // stop after finding 5

@@ -1,0 +1,20 @@
+Which is the largest land animal?,Rhino,Giraffe,Elephant,3
+Which mammal lays eggs?,Kangaroo,Platypus,Penguin,2
+What is the capital of France?,Lyon,Marseille,Paris,3
+Which planet is known as the Red Planet?,Earth,Venus,Mars,3
+What gas do plants absorb?,Oxygen,Carbon Dioxide,Nitrogen,2
+Which is the tallest mountain?,Mount Kilimanjaro,Mount Everest,K2,2
+Who wrote 'Romeo and Juliet'?,Charles Dickens,William Shakespeare,Jane Austen,2
+Which is the largest ocean?,Atlantic,Indian,Pacific,3
+What is H2O commonly known as?,Salt,Water,Ammonia,2
+Which instrument has keys and pedals?,Guitar,Piano,Drums,2
+What is Earth's closest star?,Sirius,Proxima Centauri,Sun,3
+Which animal is known as ‘King of the Jungle’?,Elephant,Lion,Tiger,2
+What is the chemical symbol for Gold?,Au,Ag,Fe,1
+Which fruit is yellow and curved?,Apple,Banana,Cherry,2
+What is the freezing point of water (°C)?,0,100,32,1
+Which animal has black and white stripes?,Tiger,Zebra,Cheetah,2
+What is 5 × 6?,11,30,56,2
+Which language has the most native speakers?,English,Spanish,Mandarin,3
+In which country is the Taj Mahal?,India,Pakistan,Bangladesh,1
+Which sport uses a shuttlecock?,Table Tennis,Badminton,Volleyball,2

@@ -46,8 +46,8 @@ public class CommonFactors {
 				System.out.println(sc.get(i));
 			}
 		}
-		for (int i = 0; i < first; i++) {
-			if (fc.get(i) == sc.get(i)) {
+		for (int i = 0; i < fc.size(); i++) {
+			if (sc.contains(fc.get(i))) {
 				if (i == 0) {
 					System.out.println("Commnon Factors :");
 					System.out.println(fc.get(i));
